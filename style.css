@@ -148,7 +148,7 @@ nav .hamburger{
 /* SECTION HEADER */
 header{
   overflow-y: hidden;
-  background-image: url('../img/Hero.jpg');
+  background-image: url('..Hero.jpg');
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
